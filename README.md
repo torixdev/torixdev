@@ -1,34 +1,51 @@
 <div align="center">
 
-```text
-$ exec torixdev --profile
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
 
-████████╗ ██████╗ ██████╗ ██╗██╗  ██╗██████╗ ███████╗██╗   ██╗
-╚══██╔══╝██╔═══██╗██╔══██╗██║╚██╗██╔╝██╔══██╗██╔════╝██║   ██║
-   ██║   ██║   ██║██████╔╝██║ ╚███╔╝ ██║  ██║█████╗  ██║   ██║
-   ██║   ██║   ██║██╔══██╗██║ ██╔██╗ ██║  ██║██╔══╝  ╚██╗ ██╔╝
-   ██║   ╚██████╔╝██║  ██║██║██╔╝ ██╗██████╔╝███████╗ ╚████╔╝ 
-   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝  ╚═══╝  
-```
-
-<br>
+<h2>hey, i'm torix</h2>
 
 <p>
-  <code>SYSTEM_ENGINEERING</code> &nbsp;•&nbsp; <code>BACKEND_ARCHITECTURE</code> &nbsp;•&nbsp; <code>HIGH_PERFORMANCE</code>
+backend / systems developer  
+kotlin • java • rust + react
 </p>
 
-<br>
-
-<div>
-  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="" />
-  <img src="https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=FFFFFF" alt="" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="" />
 </div>
 
-<br><br><br>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=torixdev&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&bg_color=0D1117&text_color=8B949E&icon_color=7F52FF" alt="" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torixdev&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&text_color=8B949E" alt="" width="48%" />
+### about me
+
+i build fast and clean backend systems
+focused on performance, simplicity and structure
+
+currently working on:
+
+* file search engine (high-performance indexing & search)
+
+---
+
+### stack
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF"/>
+  <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+  <img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
+### philosophy
+
+> clean code > clever code
+> performance matters
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=torix&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=8B949E&icon_color=7F52FF"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torix&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=8B949E"/>
 
 </div>
