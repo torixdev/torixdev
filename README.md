@@ -57,11 +57,6 @@ obsessed with clean architecture and zero-waste performance
 
 ### `~/stats`
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=torixdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=8B949E&icon_color=7F52FF" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torixdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=8B949E" width="48%"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=torixdev&hide_border=true&background=0D1117&ring=7F52FF&fire=7F52FF&currStreakLabel=8B949E" width="80%"/>
 
